@@ -157,12 +157,12 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section padding="25px 0 15px">
+    <mj-section background-color="#f9f9f9" padding="25px 0 15px">
       <mj-column>
         <mj-image alt="Find a store" href="https://www.bottegaveneta.com/en-us" width="168px" src="https://promotional-email.s3.us-west-2.amazonaws.com/find-a-store.png"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section padding="10px 0">
+    <mj-section background-color="#f9f9f9" padding="10px 0">
       <mj-column>
         <mj-button padding="5px 2px" background-color="#2E967D" mj-class="open-sans-button" border-radius="0px" href="https://www.bottegaveneta.com/en-uswomen" width="100%"><span style="letter-spacing: 2px;">women</span></mj-button>
       </mj-column>
@@ -170,12 +170,12 @@
         <mj-button padding="5px 2px" background-color="#2E967D" mj-class="open-sans-button" border-radius="0px" href="https://www.bottegaveneta.com/en-usmen" width="100%"><span style="letter-spacing: 2px;">men</span></mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#f9f9f9">
       <mj-column>
         <mj-text font-family="Open Sans, Arial" font-size="16px" align="center" text-transform="uppercase" font-weight="bold" letter-spacing="2px">free shipping. free returns *</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#f9f9f9">
       <mj-group>
         <mj-column>
           <mj-image alt="bottegaveneta facebook" href="https://www.bottegaveneta.com/en-us" width="40px" src="https://promotional-email.s3.us-west-2.amazonaws.com/share-facebook.png"></mj-image>
@@ -191,7 +191,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section padding="10px 45px">
+    <mj-section background-color="#f9f9f9" padding="10px 45px">
       <mj-group>
         <mj-column width="27%">
           <mj-text padding="7px 0" text-transform="uppercase" font-family="Open Sans, Arial, sans-serif" font-size="12px" text-decoration="none" align="center"><a href="https://www.bottegaveneta.com/en-us" style="text-decoration:none; color:#111111" class="apple-link-black"><strong>live chat</strong></a></mj-text>
@@ -210,7 +210,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section padding="0px">
+    <mj-section background-color="#f9f9f9" padding="0px">
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="0 10px">
           <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">We only send emails to individuals who have registered at our site:
